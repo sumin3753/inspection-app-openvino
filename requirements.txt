@@ -1,0 +1,7 @@
+# requirements_ov.txt
+# tf_App_openvino.py (OpenVINO 모델 .xml/.bin) 배포용 패키지 목록
+# 사용 라이브러리: streamlit, openvino, numpy, pillow(PIL)
+streamlit==1.38.0
+openvino==2024.6.0
+numpy==1.26.4
+pillow==10.4.0
